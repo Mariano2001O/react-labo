@@ -4,7 +4,7 @@ import TextField from '@material-ui/core/TextField'
 import Container from '@material-ui/core/Container'
 import Button from '@material-ui/core/Button'
 
-export const UserEnter = (props) => {
+export const UserEnter = () => {
 
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');

@@ -37,7 +37,7 @@ function PostTable() {
         <thead>
           <tr>
             <th>descripcion</th>
-            <th>ubicaion</th>
+            <th>ubicacion</th>
             <th>fecha</th>
             <th>ID usuario</th>
             <th>accion</th>
